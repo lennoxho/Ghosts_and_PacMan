@@ -1,17 +1,13 @@
-====================================================================
-                          Ghosts & Pac-Man
-====================================================================
+#Ghosts & Pac-Man
 
 ------------
 Requirements
 ------------
-1. Python 2.7 or above.
-2. Pygame (and its dependencies).
-    2.1. sudo apt-get install python-pygame, or
-    2.2. pip install pygame, or
-    2.3. Download the .whl (precompiled Python libraries) from
-         http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame and
-         run python install <path_to_file>.
+1. Python 2.7 or above.  
+2. Pygame (and its dependencies).  
+    2.1. sudo apt-get install python-pygame, or  
+    2.2. pip install pygame, or  
+    2.3. Download the .whl (precompiled Python libraries) from http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame.  
 
 
 ---------------------------
@@ -49,5 +45,5 @@ Notes on running on UofT cdf
 -------
 authors
 -------
-Hunter James Forsyth   https://github.com/hunterforsyth
+Hunter James Forsyth   https://github.com/hunterforsyth  
 "Lennox" Shou Hao Ho   https://ca.linkedin.com/in/lennoxho
