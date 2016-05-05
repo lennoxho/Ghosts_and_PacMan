@@ -43,7 +43,7 @@ Notes on running on UofT cdf
 
 
 -------
-authors
+Authors
 -------
 Hunter James Forsyth   https://github.com/hunterforsyth  
 "Lennox" Shou Hao Ho   https://ca.linkedin.com/in/lennoxho
